@@ -1,0 +1,15 @@
+C:\Users\Shai\source\repos\CLIPingScript\bin\Debug\net6.0\CLIPingScript.exe
+C:\Users\Shai\source\repos\CLIPingScript\bin\Debug\net6.0\CLIPingScript.deps.json
+C:\Users\Shai\source\repos\CLIPingScript\bin\Debug\net6.0\CLIPingScript.runtimeconfig.json
+C:\Users\Shai\source\repos\CLIPingScript\bin\Debug\net6.0\CLIPingScript.dll
+C:\Users\Shai\source\repos\CLIPingScript\bin\Debug\net6.0\CLIPingScript.pdb
+C:\Users\Shai\source\repos\CLIPingScript\obj\Debug\net6.0\CLIPingScript.csproj.AssemblyReference.cache
+C:\Users\Shai\source\repos\CLIPingScript\obj\Debug\net6.0\CLIPingScript.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shai\source\repos\CLIPingScript\obj\Debug\net6.0\CLIPingScript.AssemblyInfoInputs.cache
+C:\Users\Shai\source\repos\CLIPingScript\obj\Debug\net6.0\CLIPingScript.AssemblyInfo.cs
+C:\Users\Shai\source\repos\CLIPingScript\obj\Debug\net6.0\CLIPingScript.csproj.CoreCompileInputs.cache
+C:\Users\Shai\source\repos\CLIPingScript\obj\Debug\net6.0\CLIPingScript.dll
+C:\Users\Shai\source\repos\CLIPingScript\obj\Debug\net6.0\refint\CLIPingScript.dll
+C:\Users\Shai\source\repos\CLIPingScript\obj\Debug\net6.0\CLIPingScript.pdb
+C:\Users\Shai\source\repos\CLIPingScript\obj\Debug\net6.0\CLIPingScript.genruntimeconfig.cache
+C:\Users\Shai\source\repos\CLIPingScript\obj\Debug\net6.0\ref\CLIPingScript.dll
