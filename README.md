@@ -3,7 +3,7 @@
 Next step with this script is to create a simple GUI for it.
 
 -_-_-_- Usage -_-_-_-
-.\CLIPingScript.exe <destination IP>
+.\CLIPingScript.exe "destination IP"
 
 Buffer size: 32 bytes
 Ttl: 128 (Default)
